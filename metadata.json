@@ -1,0 +1,8 @@
+{
+  "name": "WebOS iPad Edition",
+  "description": "A fully functional web-based operating system inspired by iPadOS featuring an App Store, window management, and drag-and-drop home screen.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
